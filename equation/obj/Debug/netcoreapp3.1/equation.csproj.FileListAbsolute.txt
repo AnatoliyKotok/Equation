@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\equation\equation\bin\Debug\netcoreapp3.1\equation.exe
+C:\Users\Anatoliy\source\repos\equation\equation\bin\Debug\netcoreapp3.1\equation.deps.json
+C:\Users\Anatoliy\source\repos\equation\equation\bin\Debug\netcoreapp3.1\equation.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\equation\equation\bin\Debug\netcoreapp3.1\equation.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\equation\equation\bin\Debug\netcoreapp3.1\equation.dll
+C:\Users\Anatoliy\source\repos\equation\equation\bin\Debug\netcoreapp3.1\equation.pdb
+C:\Users\Anatoliy\source\repos\equation\equation\obj\Debug\netcoreapp3.1\equation.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\equation\equation\obj\Debug\netcoreapp3.1\equation.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\equation\equation\obj\Debug\netcoreapp3.1\equation.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\equation\equation\obj\Debug\netcoreapp3.1\equation.dll
+C:\Users\Anatoliy\source\repos\equation\equation\obj\Debug\netcoreapp3.1\equation.pdb
